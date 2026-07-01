@@ -1,0 +1,60 @@
+canonical_identifier: bkk:krp/KR6r0033/v1
+canonical_location: https://kanripo.org/bkk/KR6r0033/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 天尊說阿育王譬喻經
+  identifiers:
+    alt_id:
+    - T50n2044
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2044.xml
+    old_id: T50n2044
+  edition:
+    short: bkk
+editions:
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 宮
+  label: 宮
+  source_xml_id: wit4
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 甲
+  label: 甲
+  source_xml_id: wit5
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: 麗-CB
+  label: 麗-CB
+  source_xml_id: wit6
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0033_000.yaml, hash: 'sha256:d7b6fee74cbedbf972da202e2c55922240e90dae556ff1ccccfab2b171aadcf3'}
+  - {seq: 1, filename: KR6r0033_001.yaml, hash: 'sha256:05b035846dcdba1f4347c2f70497447cad5f0f5ba06483f928c8857e513fb8e9'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6r0033_001.markers.yaml, hash: 'sha256:7de738389dda125346b8c0fa70b99e27888275921e458d77e4b5f9a60669ef51'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6r0033_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2771
+  label: 天尊說阿育王譬喻經
+  type: juan
+  level: 1
+hash: sha256:7e4b7255a0e23786c6cd2c7629b46cc3787c95f6f6f3aa73a2dbed9e2e9563f6
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

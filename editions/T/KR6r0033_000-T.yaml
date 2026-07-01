@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6r0033/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 天尊說阿育王譬喻經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T50/T50n2044.xml
+    old_id: T50n2044
+hash: sha256:d7b6fee74cbedbf972da202e2c55922240e90dae556ff1ccccfab2b171aadcf3
