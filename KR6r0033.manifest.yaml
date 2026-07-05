@@ -40,9 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0033_000.yaml, hash: 'sha256:d7b6fee74cbedbf972da202e2c55922240e90dae556ff1ccccfab2b171aadcf3'}
-  - {seq: 1, filename: KR6r0033_001.yaml, hash: 'sha256:05b035846dcdba1f4347c2f70497447cad5f0f5ba06483f928c8857e513fb8e9'}
+  - {seq: 1, filename: KR6r0033_001.yaml, hash: 'sha256:34ffa16ba21afddfc69bfcdc5636336d7c6c6f85a22eac859f8e56f31353b973'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6r0033_001.markers.yaml, hash: 'sha256:7de738389dda125346b8c0fa70b99e27888275921e458d77e4b5f9a60669ef51'}
+  - {seq: 0, role: markers, filename: assets/KR6r0033_000.markers.yaml, hash: 'sha256:f2e158ce4fabaaeb83b3726ea5653dfc54c9eec739150070bfe1d5f9ac5087e9'}
+  - {seq: 1, role: markers, filename: assets/KR6r0033_001.markers.yaml, hash: 'sha256:3f0a7ccd0981e0b2263a9c3afcc74238d807da63a23873d56b2020b48e90d054'}
 table_of_contents:
 - ref:
     seq: 1
@@ -54,7 +55,4 @@ table_of_contents:
   label: 天尊說阿育王譬喻經
   type: juan
   level: 1
-hash: sha256:7e4b7255a0e23786c6cd2c7629b46cc3787c95f6f6f3aa73a2dbed9e2e9563f6
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d7fd20af6652bb785b05bb1e4f08fc32eabcad81cc59a0b19bb7f0f44aab0f91
