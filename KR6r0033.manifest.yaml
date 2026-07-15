@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0033/v1
 canonical_location: https://kanripo.org/bkk/KR6r0033/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 天尊說阿育王譬喻經
   identifiers:
@@ -40,10 +40,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6r0033_000.yaml, hash: 'sha256:d7b6fee74cbedbf972da202e2c55922240e90dae556ff1ccccfab2b171aadcf3'}
-  - {seq: 1, filename: KR6r0033_001.yaml, hash: 'sha256:34ffa16ba21afddfc69bfcdc5636336d7c6c6f85a22eac859f8e56f31353b973'}
+  - {seq: 1, filename: KR6r0033_001.yaml, hash: 'sha256:ee27aaa16bd2af4e8f7506e7e36ef63f3284594e18db64d059ad8bb4b149606b'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6r0033_000.markers.yaml, hash: 'sha256:f2e158ce4fabaaeb83b3726ea5653dfc54c9eec739150070bfe1d5f9ac5087e9'}
-  - {seq: 1, role: markers, filename: assets/KR6r0033_001.markers.yaml, hash: 'sha256:3f0a7ccd0981e0b2263a9c3afcc74238d807da63a23873d56b2020b48e90d054'}
+  - {seq: 1, role: markers, filename: assets/KR6r0033_001.markers.yaml, hash: 'sha256:c8de74754bd9cb6ad453a827334a0ab38e247a00d2f6b0e6b7c760b77c329987'}
 table_of_contents:
 - ref:
     seq: 1
@@ -55,4 +55,7 @@ table_of_contents:
   label: 天尊說阿育王譬喻經
   type: juan
   level: 1
-hash: sha256:d7fd20af6652bb785b05bb1e4f08fc32eabcad81cc59a0b19bb7f0f44aab0f91
+hash: sha256:2203bc861b3350adb29f062e31215f718da435f90ee84014ed3c53fa981fc392
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
